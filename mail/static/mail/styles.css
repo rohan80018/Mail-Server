@@ -1,0 +1,20 @@
+textarea {
+    min-height: 400px;
+}
+
+.read{
+    background-color: #a09d9d;
+    border: 1px solid #ababab;
+    border-radius: 5px;
+    margin-bottom: 2px;
+}
+
+.unread{
+    background-color: white;
+    border: 1px solid #b2b1b1;
+    border-radius: 5px;
+    margin-bottom: 2px;
+}
+.btn-success{
+    margin-left: 20px;
+}
